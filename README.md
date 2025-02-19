@@ -23,7 +23,7 @@ This repository is powered by the following technologies:
 ## 🚀 How to Get Started
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/EDA_Projects.git
+   git clone https://github.com/batuhansahann/EDA_Projects.git
    ```
 2. **Navigate to the repository**
    ```sh
